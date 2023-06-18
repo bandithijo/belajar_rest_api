@@ -1,0 +1,34 @@
+[
+  {
+    "nama": "Rizqi Nur Assyaufi",
+    "umur": 34,
+    "pekerjaan": "Software Engineer",
+    "tetap": true,
+    "skill": [
+      "Programming",
+      "DevOps",
+      "Data Engineering",
+      "Hacking"
+    ],
+    "manager": {
+      "satu": "Jhonny Deep",
+      "dua": "John Doe"
+    }
+  },
+  {
+    "nama": "Rizqi Nur Assyaufi",
+    "umur": 34,
+    "pekerjaan": "Software Engineer",
+    "tetap": true,
+    "skill": [
+      "Programming",
+      "DevOps",
+      "Data Engineering",
+      "Hacking"
+    ],
+    "manager": {
+      "satu": "Jhonny Deep",
+      "dua": "John Doe"
+    }
+  }
+]
